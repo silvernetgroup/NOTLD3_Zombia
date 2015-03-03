@@ -1,0 +1,15 @@
+C:\Users\Mateusz\Desktop\ZombiaDev\Zombia\Zombia.Windows\bin\Debug\ReverseMap\resources.pri
+C:\Users\Mateusz\Desktop\ZombiaDev\Zombia\Zombia.Windows\bin\Debug\AppxManifest.xml
+C:\Users\Mateusz\Desktop\ZombiaDev\Zombia\Zombia.Windows\bld\Debug\priconfig.xml
+C:\Users\Mateusz\Desktop\ZombiaDev\Zombia\Zombia.Windows\bld\Debug\priconfig.xml.intermediate
+C:\Users\Mateusz\Desktop\ZombiaDev\Zombia\Zombia.Windows\bld\Debug\layout.resfiles
+C:\Users\Mateusz\Desktop\ZombiaDev\Zombia\Zombia.Windows\bld\Debug\layout.resfiles.intermediate
+C:\Users\Mateusz\Desktop\ZombiaDev\Zombia\Zombia.Windows\bld\Debug\resources.resfiles
+C:\Users\Mateusz\Desktop\ZombiaDev\Zombia\Zombia.Windows\bld\Debug\resources.resfiles.intermediate
+C:\Users\Mateusz\Desktop\ZombiaDev\Zombia\Zombia.Windows\bld\Debug\pri.resfiles
+C:\Users\Mateusz\Desktop\ZombiaDev\Zombia\Zombia.Windows\bld\Debug\pri.resfiles.intermediate
+C:\Users\Mateusz\Desktop\ZombiaDev\Zombia\Zombia.Windows\bld\Debug\qualifiers.txt
+C:\Users\Mateusz\Desktop\ZombiaDev\Zombia\Zombia.Windows\bld\Debug\qualifiers.txt.intermediate
+C:\Users\Mateusz\Desktop\ZombiaDev\Zombia\Zombia.Windows\bld\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Mateusz\Desktop\ZombiaDev\Zombia\Zombia.Windows\bld\Debug\ProjectArchitectures.txt
+C:\Users\Mateusz\Desktop\ZombiaDev\Zombia\Zombia.Windows\bin\Debug\Zombia.Windows.build.appxrecipe

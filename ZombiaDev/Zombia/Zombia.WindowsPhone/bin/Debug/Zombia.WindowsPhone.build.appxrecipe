@@ -1,0 +1,248 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>KOKOS</Machine>
+    <WindowsUser>Mateusz</WindowsUser>
+    <TargetPlatformIdentifier>WindowsPhoneApp</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>EF6174F4-483D-42BC-9D74-DC6C7BF1A5E1</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\Mateusz\Desktop\ZombiaDev\Zombia\Zombia.WindowsPhone\bld\Debug\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Mateusz\Desktop\ZombiaDev\Zombia\Zombia.WindowsPhone\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Mateusz\Desktop\ZombiaDev\Zombia\Zombia.WindowsPhone\images\BadgeLogo.scale-140.png">
+      <PackagePath>images\BadgeLogo.scale-140.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mateusz\Desktop\ZombiaDev\Zombia\Zombia.WindowsPhone\images\Square150x150Logo.scale-140.png">
+      <PackagePath>images\Square150x150Logo.scale-140.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mateusz\Desktop\ZombiaDev\Zombia\Zombia.WindowsPhone\images\Wide310x150Logo.scale-140.png">
+      <PackagePath>images\Wide310x150Logo.scale-140.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mateusz\Desktop\ZombiaDev\Zombia\Zombia.WindowsPhone\images\Square150x150Logo.scale-240.png">
+      <PackagePath>images\Square150x150Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mateusz\Desktop\ZombiaDev\Zombia\Zombia.WindowsPhone\images\Square44x44Logo.scale-240.png">
+      <PackagePath>images\Square44x44Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mateusz\Desktop\ZombiaDev\Zombia\Zombia.WindowsPhone\images\Wide310x150Logo.scale-240.png">
+      <PackagePath>images\Wide310x150Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mateusz\Desktop\ZombiaDev\Zombia\Zombia.WindowsPhone\images\Square71x71Logo.scale-240.png">
+      <PackagePath>images\Square71x71Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mateusz\Desktop\ZombiaDev\Zombia\Zombia.WindowsPhone\images\SplashScreen.scale-240.png">
+      <PackagePath>images\SplashScreen.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mateusz\Desktop\ZombiaDev\Zombia\Zombia.WindowsPhone\images\StoreLogo.scale-240.png">
+      <PackagePath>images\StoreLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mateusz\Desktop\ZombiaDev\Zombia\Zombia.Shared\images\tiledbackground.png">
+      <PackagePath>images\tiledbackground.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mateusz\Desktop\ZombiaDev\Zombia\Zombia.Shared\images\cloud-sheet0.png">
+      <PackagePath>images\cloud-sheet0.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mateusz\Desktop\ZombiaDev\Zombia\Zombia.Shared\images\puddlecutout-sheet0.png">
+      <PackagePath>images\puddlecutout-sheet0.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mateusz\Desktop\ZombiaDev\Zombia\Zombia.Shared\images\tiledbackgroundnormal.png">
+      <PackagePath>images\tiledbackgroundnormal.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mateusz\Desktop\ZombiaDev\Zombia\Zombia.Shared\images\player-sheet0.png">
+      <PackagePath>images\player-sheet0.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mateusz\Desktop\ZombiaDev\Zombia\Zombia.Shared\images\raindrop-sheet0.png">
+      <PackagePath>images\raindrop-sheet0.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mateusz\Desktop\ZombiaDev\Zombia\Zombia.Shared\images\splash-sheet0.png">
+      <PackagePath>images\splash-sheet0.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mateusz\Desktop\ZombiaDev\Zombia\Zombia.Shared\images\tiledbackgroundblue.png">
+      <PackagePath>images\tiledbackgroundblue.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mateusz\Desktop\ZombiaDev\Zombia\Zombia.Shared\images\playergun-sheet0.png">
+      <PackagePath>images\playergun-sheet0.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mateusz\Desktop\ZombiaDev\Zombia\Zombia.Shared\images\mousesprite-sheet0.png">
+      <PackagePath>images\mousesprite-sheet0.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mateusz\Desktop\ZombiaDev\Zombia\Zombia.Shared\images\playerreflection-sheet0.png">
+      <PackagePath>images\playerreflection-sheet0.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mateusz\Desktop\ZombiaDev\Zombia\Zombia.Shared\images\mouseimage-sheet0.png">
+      <PackagePath>images\mouseimage-sheet0.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mateusz\Desktop\ZombiaDev\Zombia\Zombia.Shared\images\laser-sheet0.png">
+      <PackagePath>images\laser-sheet0.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mateusz\Desktop\ZombiaDev\Zombia\Zombia.Shared\images\laserimpact-sheet0.png">
+      <PackagePath>images\laserimpact-sheet0.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mateusz\Desktop\ZombiaDev\Zombia\Zombia.Shared\images\laserglow-sheet0.png">
+      <PackagePath>images\laserglow-sheet0.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mateusz\Desktop\ZombiaDev\Zombia\Zombia.Shared\images\cloudshadow-sheet0.png">
+      <PackagePath>images\cloudshadow-sheet0.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mateusz\Desktop\ZombiaDev\Zombia\Zombia.Shared\images\scirraletter-sheet0.png">
+      <PackagePath>images\scirraletter-sheet0.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mateusz\Desktop\ZombiaDev\Zombia\Zombia.Shared\images\scirraletter-sheet1.png">
+      <PackagePath>images\scirraletter-sheet1.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mateusz\Desktop\ZombiaDev\Zombia\Zombia.Shared\images\construct2logo-sheet0.png">
+      <PackagePath>images\construct2logo-sheet0.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mateusz\Desktop\ZombiaDev\Zombia\Zombia.Shared\images\torchspotlight-sheet0.png">
+      <PackagePath>images\torchspotlight-sheet0.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mateusz\Desktop\ZombiaDev\Zombia\Zombia.Shared\images\monster-sheet0.png">
+      <PackagePath>images\monster-sheet0.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mateusz\Desktop\ZombiaDev\Zombia\Zombia.Shared\images\sprite-sheet0.png">
+      <PackagePath>images\sprite-sheet0.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mateusz\Desktop\ZombiaDev\Zombia\Zombia.Shared\images\startbutton-sheet0.png">
+      <PackagePath>images\startbutton-sheet0.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mateusz\Desktop\ZombiaDev\Zombia\Zombia.Shared\images\helpbutton-sheet0.png">
+      <PackagePath>images\helpbutton-sheet0.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mateusz\Desktop\ZombiaDev\Zombia\Zombia.Shared\images\helpsprite-sheet0.png">
+      <PackagePath>images\helpsprite-sheet0.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mateusz\Desktop\ZombiaDev\Zombia\Zombia.Shared\images\leftbut-sheet0.png">
+      <PackagePath>images\leftbut-sheet0.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mateusz\Desktop\ZombiaDev\Zombia\Zombia.Shared\images\rightbut-sheet0.png">
+      <PackagePath>images\rightbut-sheet0.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mateusz\Desktop\ZombiaDev\Zombia\Zombia.Shared\images\upbut-sheet0.png">
+      <PackagePath>images\upbut-sheet0.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mateusz\Desktop\ZombiaDev\Zombia\Zombia.Shared\images\downbut-sheet0.png">
+      <PackagePath>images\downbut-sheet0.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mateusz\Desktop\ZombiaDev\Zombia\Zombia.Shared\images\ring-sheet0.png">
+      <PackagePath>images\ring-sheet0.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mateusz\Desktop\ZombiaDev\Zombia\Zombia.Shared\images\sprite2-sheet0.png">
+      <PackagePath>images\sprite2-sheet0.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mateusz\Desktop\ZombiaDev\Zombia\Zombia.Shared\images\sprite3-sheet0.png">
+      <PackagePath>images\sprite3-sheet0.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mateusz\Desktop\ZombiaDev\Zombia\Zombia.Shared\images\sprite4-sheet0.png">
+      <PackagePath>images\sprite4-sheet0.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mateusz\Desktop\ZombiaDev\Zombia\Zombia.Shared\icon-16.png">
+      <PackagePath>icon-16.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mateusz\Desktop\ZombiaDev\Zombia\Zombia.Shared\icon-32.png">
+      <PackagePath>icon-32.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mateusz\Desktop\ZombiaDev\Zombia\Zombia.Shared\icon-114.png">
+      <PackagePath>icon-114.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mateusz\Desktop\ZombiaDev\Zombia\Zombia.Shared\icon-128.png">
+      <PackagePath>icon-128.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mateusz\Desktop\ZombiaDev\Zombia\Zombia.Shared\icon-256.png">
+      <PackagePath>icon-256.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mateusz\Desktop\ZombiaDev\Zombia\Zombia.Shared\loading-logo.png">
+      <PackagePath>loading-logo.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mateusz\Desktop\ZombiaDev\Zombia\Zombia.WindowsPhone\index-phone.html">
+      <PackagePath>index-phone.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mateusz\Desktop\ZombiaDev\Zombia\Zombia.Shared\c2runtime.js">
+      <PackagePath>c2runtime.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mateusz\Desktop\ZombiaDev\Zombia\Zombia.Shared\jquery-2.0.0.min.js">
+      <PackagePath>jquery-2.0.0.min.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mateusz\Desktop\ZombiaDev\Zombia\Zombia.Shared\media\fireball.m4a">
+      <PackagePath>media\fireball.m4a</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mateusz\Desktop\ZombiaDev\Zombia\Zombia.Shared\media\laser.m4a">
+      <PackagePath>media\laser.m4a</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mateusz\Desktop\ZombiaDev\Zombia\Zombia.Shared\media\rain_loop.m4a">
+      <PackagePath>media\rain_loop.m4a</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mateusz\Desktop\ZombiaDev\Zombia\Zombia.Shared\media\splash1.m4a">
+      <PackagePath>media\splash1.m4a</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mateusz\Desktop\ZombiaDev\Zombia\Zombia.Shared\media\splash2.m4a">
+      <PackagePath>media\splash2.m4a</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mateusz\Desktop\ZombiaDev\Zombia\Zombia.Shared\media\splash3.m4a">
+      <PackagePath>media\splash3.m4a</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mateusz\Desktop\ZombiaDev\Zombia\Zombia.Shared\media\splash4.m4a">
+      <PackagePath>media\splash4.m4a</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mateusz\Desktop\ZombiaDev\Zombia\Zombia.Shared\media\step1.m4a">
+      <PackagePath>media\step1.m4a</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mateusz\Desktop\ZombiaDev\Zombia\Zombia.Shared\media\step2.m4a">
+      <PackagePath>media\step2.m4a</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mateusz\Desktop\ZombiaDev\Zombia\Zombia.Shared\media\step3.m4a">
+      <PackagePath>media\step3.m4a</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mateusz\Desktop\ZombiaDev\Zombia\Zombia.Shared\media\step4.m4a">
+      <PackagePath>media\step4.m4a</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mateusz\Desktop\ZombiaDev\Zombia\Zombia.Shared\media\thunder1.m4a">
+      <PackagePath>media\thunder1.m4a</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mateusz\Desktop\ZombiaDev\Zombia\Zombia.Shared\media\thunder2.m4a">
+      <PackagePath>media\thunder2.m4a</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mateusz\Desktop\ZombiaDev\Zombia\Zombia.Shared\media\thunder3.m4a">
+      <PackagePath>media\thunder3.m4a</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mateusz\Desktop\ZombiaDev\Zombia\Zombia.Shared\media\thunder4.m4a">
+      <PackagePath>media\thunder4.m4a</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mateusz\Desktop\ZombiaDev\Zombia\Zombia.Shared\media\thunder5.m4a">
+      <PackagePath>media\thunder5.m4a</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mateusz\Desktop\ZombiaDev\Zombia\Zombia.Shared\media\sfx4.m4a">
+      <PackagePath>media\sfx4.m4a</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mateusz\Desktop\ZombiaDev\Zombia\Zombia.Shared\media\swoosh2.m4a">
+      <PackagePath>media\swoosh2.m4a</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Mateusz\Desktop\ZombiaDev\Zombia\Zombia.WindowsPhone\bin\Debug\ReverseMap\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\WindowsPhoneApp\v8.1\ExtensionSDKs\Microsoft.Phone.WinJS.2.1\1.0\">
+      <Name>Microsoft.Phone.WinJS.2.1</Name>
+      <Version>1.0.9651.0</Version>
+      <Architecture>Neutral</Architecture>
+      <FrameworkIdentity>Name=Microsoft.Phone.WinJS.2.1, MinVersion=1.0.9651.0</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\WindowsPhoneApp\v8.1\ExtensionSDKs\Microsoft.Phone.WinJS.2.1\1.0\Microsoft.Phone.WinJS.2.1.appx</AppxLocation>
+      <MoreInfo>http://go.microsoft.com/fwlink/%3fLinkId=260891</MoreInfo>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>

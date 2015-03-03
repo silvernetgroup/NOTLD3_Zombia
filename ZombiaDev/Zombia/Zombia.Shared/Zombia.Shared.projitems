@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <MSBuildAllProjects>$(MSBuildAllProjects);$(MSBuildThisFileFullPath)</MSBuildAllProjects>
+    <HasSharedItems>true</HasSharedItems>
+    <SharedGUID>D136EC10-6F1A-425D-B279-EEACA76EC5CA</SharedGUID>
+  </PropertyGroup>
+  <ItemGroup>
+	<Content Include="$(MSBuildThisFileDirectory)c2runtime.js" />
+	<Content Include="$(MSBuildThisFileDirectory)jquery-2.0.0.min.js" />
+	<Content Include="$(MSBuildThisFileDirectory)images\tiledbackground.png" />
+	<Content Include="$(MSBuildThisFileDirectory)images\cloud-sheet0.png" />
+	<Content Include="$(MSBuildThisFileDirectory)images\puddlecutout-sheet0.png" />
+	<Content Include="$(MSBuildThisFileDirectory)images\tiledbackgroundnormal.png" />
+	<Content Include="$(MSBuildThisFileDirectory)images\player-sheet0.png" />
+	<Content Include="$(MSBuildThisFileDirectory)images\raindrop-sheet0.png" />
+	<Content Include="$(MSBuildThisFileDirectory)images\splash-sheet0.png" />
+	<Content Include="$(MSBuildThisFileDirectory)images\tiledbackgroundblue.png" />
+	<Content Include="$(MSBuildThisFileDirectory)images\playergun-sheet0.png" />
+	<Content Include="$(MSBuildThisFileDirectory)images\mousesprite-sheet0.png" />
+	<Content Include="$(MSBuildThisFileDirectory)images\playerreflection-sheet0.png" />
+	<Content Include="$(MSBuildThisFileDirectory)images\mouseimage-sheet0.png" />
+	<Content Include="$(MSBuildThisFileDirectory)images\laser-sheet0.png" />
+	<Content Include="$(MSBuildThisFileDirectory)images\laserimpact-sheet0.png" />
+	<Content Include="$(MSBuildThisFileDirectory)images\laserglow-sheet0.png" />
+	<Content Include="$(MSBuildThisFileDirectory)images\cloudshadow-sheet0.png" />
+	<Content Include="$(MSBuildThisFileDirectory)images\scirraletter-sheet0.png" />
+	<Content Include="$(MSBuildThisFileDirectory)images\scirraletter-sheet1.png" />
+	<Content Include="$(MSBuildThisFileDirectory)images\construct2logo-sheet0.png" />
+	<Content Include="$(MSBuildThisFileDirectory)images\torchspotlight-sheet0.png" />
+	<Content Include="$(MSBuildThisFileDirectory)images\monster-sheet0.png" />
+	<Content Include="$(MSBuildThisFileDirectory)images\sprite-sheet0.png" />
+	<Content Include="$(MSBuildThisFileDirectory)images\startbutton-sheet0.png" />
+	<Content Include="$(MSBuildThisFileDirectory)images\helpbutton-sheet0.png" />
+	<Content Include="$(MSBuildThisFileDirectory)images\helpsprite-sheet0.png" />
+	<Content Include="$(MSBuildThisFileDirectory)images\leftbut-sheet0.png" />
+	<Content Include="$(MSBuildThisFileDirectory)images\rightbut-sheet0.png" />
+	<Content Include="$(MSBuildThisFileDirectory)images\upbut-sheet0.png" />
+	<Content Include="$(MSBuildThisFileDirectory)images\downbut-sheet0.png" />
+	<Content Include="$(MSBuildThisFileDirectory)images\ring-sheet0.png" />
+	<Content Include="$(MSBuildThisFileDirectory)images\sprite2-sheet0.png" />
+	<Content Include="$(MSBuildThisFileDirectory)images\sprite3-sheet0.png" />
+	<Content Include="$(MSBuildThisFileDirectory)images\sprite4-sheet0.png" />
+	<Content Include="$(MSBuildThisFileDirectory)media\fireball.m4a" />
+	<Content Include="$(MSBuildThisFileDirectory)media\laser.m4a" />
+	<Content Include="$(MSBuildThisFileDirectory)media\rain_loop.m4a" />
+	<Content Include="$(MSBuildThisFileDirectory)media\splash1.m4a" />
+	<Content Include="$(MSBuildThisFileDirectory)media\splash2.m4a" />
+	<Content Include="$(MSBuildThisFileDirectory)media\splash3.m4a" />
+	<Content Include="$(MSBuildThisFileDirectory)media\splash4.m4a" />
+	<Content Include="$(MSBuildThisFileDirectory)media\step1.m4a" />
+	<Content Include="$(MSBuildThisFileDirectory)media\step2.m4a" />
+	<Content Include="$(MSBuildThisFileDirectory)media\step3.m4a" />
+	<Content Include="$(MSBuildThisFileDirectory)media\step4.m4a" />
+	<Content Include="$(MSBuildThisFileDirectory)media\thunder1.m4a" />
+	<Content Include="$(MSBuildThisFileDirectory)media\thunder2.m4a" />
+	<Content Include="$(MSBuildThisFileDirectory)media\thunder3.m4a" />
+	<Content Include="$(MSBuildThisFileDirectory)media\thunder4.m4a" />
+	<Content Include="$(MSBuildThisFileDirectory)media\thunder5.m4a" />
+	<Content Include="$(MSBuildThisFileDirectory)media\sfx4.m4a" />
+	<Content Include="$(MSBuildThisFileDirectory)media\swoosh2.m4a" />
+	<Content Include="$(MSBuildThisFileDirectory)icon-16.png" />
+	<Content Include="$(MSBuildThisFileDirectory)icon-32.png" />
+	<Content Include="$(MSBuildThisFileDirectory)icon-114.png" />
+	<Content Include="$(MSBuildThisFileDirectory)icon-128.png" />
+	<Content Include="$(MSBuildThisFileDirectory)icon-256.png" />
+	<Content Include="$(MSBuildThisFileDirectory)loading-logo.png" />
+
+  </ItemGroup>
+</Project>
